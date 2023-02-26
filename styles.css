@@ -1,0 +1,66 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-image: linear-gradient(150deg, #2c2f32, #636f7a);
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #4ECCA3;
+}
+
+p {
+  font-size: 2rem;
+  color: #4ECCA3;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
+#brocontainer{
+  border-radius: 25px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  line-height: 150px;
+  margin-left: 5%;
+  width: 90%;
+  height: 150px;
+  background-image: linear-gradient(150deg, #4ECCA3, rgb(241, 82, 82));
+  box-shadow: 1px 1px 15px 10px rgb(93, 90, 90);
+}
+
+#brocode{
+  color: rgb(10, 9, 9);
+  line-height: 150px;
+  font-family: 'Lobster', cursive;
+  font-weight: 600;
+  font-size: 35px;
+  text-decoration: none;
+}
+
+#brocode:hover{
+  color: rgb(76, 62, 62);
+}
